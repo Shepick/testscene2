@@ -1,0 +1,11 @@
+Model Information:
+* title:	Random Scene
+* source:	https://sketchfab.com/3d-models/random-scene-98d500e09fdb49ea9d6e969572d34f45
+* author:	Partho Borthakur (https://sketchfab.com/parthoborthakur)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Random Scene" (https://sketchfab.com/3d-models/random-scene-98d500e09fdb49ea9d6e969572d34f45) by Partho Borthakur (https://sketchfab.com/parthoborthakur) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
